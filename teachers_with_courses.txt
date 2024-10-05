@@ -1,0 +1,8 @@
+1.CSCI-PYTHON, Mr.Garcia
+2.CSCI-AI, Mr.Giner
+3.CSCI-JAVA, Mr.Gruber
+4.CSCI-DATA, Mrs.Johnson
+5.CSCI-DISCRETE, Mrs.Jerier
+6.CSCI-CALCULUS, Mr.Poltz
+7.CSCI-LOGIC, Mr.Johnson
+8.CSCI-PHYSICS, Mrs.Lopez

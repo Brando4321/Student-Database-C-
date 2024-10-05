@@ -1,0 +1,18 @@
+Name, Student ID, Email
+John, 0958432, john@gmail.com
+Name, Student ID, Email
+Brandon Solorio, 0989343, lopezklenbdell59@gmail.com
+Name, Student ID, Email
+Brand, 1234567, lopwewe@gmail.com
+Name, Student ID, Email
+Johnson, 1234568, Johnson12345@gmail.com
+Name, Student ID, Email
+Harry, 1234569, Harry@gmail.com
+Name, Student ID, Email
+JONNNNNN, 1234435, JOHHNNNNN@gmail.com
+Name, Student ID, Email
+john, 1234567, john@gmail.com
+
+Simon, 0958433, Simon@gmail.com
+Brandon, 0958431, Brandon@gmail.com
+Milo, 1234567, milo@gmail.com

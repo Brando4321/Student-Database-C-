@@ -1,0 +1,17 @@
+Class, Units, Price
+
+CSCI-PYTHON, 4, ($160.00)
+
+CSCI-A1,     5, ($220.00)
+
+CSCI-JAVA,   4, ($110.00)
+
+CSCI-DATA,  4, ($90.00)
+
+CSCI-Discrete Math, 4, ($140.00)
+
+CSCI-Calculus,   5, ($50.00)
+
+CSCI-Logic,   4, ($70.00)
+
+CSCI-Physics,  5, ($90.00)
